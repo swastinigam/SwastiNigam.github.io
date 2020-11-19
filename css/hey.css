@@ -223,4 +223,8 @@ img {
   transition: 0.3s;
   padding-top: 10%;
 }
+p{
+  font-size: 18px;
+  font-family: 'Roboto Mono', monospace;
+}
   }
